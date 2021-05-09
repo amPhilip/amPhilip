@@ -1,11 +1,9 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Phil</h1>
-<h3 align="center">A passionate Frontend developer</h3>
+<h1 align="left">Hi 👋, I'm Phil</h1>
+<h3 align="left">A passionate Frontend developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/philip-macharia-a27096195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/philip-macharia-a27096195" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/philip-macharia-a27096195" target="blank"><h4>linkedin.com/in/philip-macharia-a27096195 </h4></a>
 </p>
 
 
