@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me **philipmwangi91@gmail.com**
-- My linkedin Profile **<a href="https://linkedin.com/in/linkedin.com/in/https://www.linkedin.com/in/philip-macharia/" target="blank"><h5>https://www.linkedin.com/in/philip-macharia/</h5></a>**
+- My linkedin Profile **<h5>https://www.linkedin.com/in/philip-macharia/</h5>**
 
  
 - 💬 Ask me about **Frontend Development with Javascript & ReactJs**
