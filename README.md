@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello 👋, Welcome to my Profile. I'm Philip Macharia.</h1>
 <h3 align="center">I'm a passionate Frontend Developer</h3>
 
-<br/>
+
 
 - My linkedin Profile <a href="https://www.linkedin.com/in/philip-macharia/" target="blank"><h5>https://www.linkedin.com/in/philip-macharia/</h5></a>
 - 📫 How to reach me: **philipmwangi91@gmail.com**
@@ -55,7 +55,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: **Backend Development**
 
 
-<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/philip-macharia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/philip-macharia/" height="30" width="40" /></a>
