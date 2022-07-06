@@ -39,27 +39,24 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+- 🌱 I’m currently learning: **Backend Development**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a href="https://dribbble.com/mac_phil63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/mac_phil63" height="30" width="40" /></a>
 -->
 
-<h1 align="center">Hello 👋, Welcome to my Profile. I'm Philip Macharia.</h1>
-<h3 align="center">I'm a passionate Frontend Developer</h3>
+<h2 align="center">Hello, Welcome to my Github Profile. I'm Philip Macharia.</h2>
+<h3 align="center">I'm a passionate Frontend Developer</h3><br/><br/>
 
 
+💬 Ask me about: **Frontend Development with Javascript & ReactJs**
 
-- My linkedin Profile <a href="https://www.linkedin.com/in/philip-macharia/" target="blank"><h5>https://www.linkedin.com/in/philip-macharia/</h5></a>
-- 📫 How to reach me: **philipmwangi91@gmail.com**
-
-- 💬 Ask me about: **Frontend Development with Javascript & ReactJs**
-- 🌱 I’m currently learning: **Backend Development**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/philip-macharia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/philip-macharia/" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/amphilip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/amphilip" height="30" width="40" /></a>
-<a href="https://dribbble.com/mac_phil63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/mac_phil63" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
