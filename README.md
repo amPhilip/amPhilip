@@ -51,11 +51,15 @@ Here are some ideas to get you started:
 <a href="https://dribbble.com/mac_phil63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/mac_phil63" height="30" width="40" /></a>
 -->
 
-<h2 align="center">Hello, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Philip. Welcome to my Github Profile.</h2>
-<h3 align="center">I'm a passionate Frontend Developer</h3><br/><br/>
+<h2 align="center">Hello, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Philip. Welcome to my GitHub Profile. Feel Free to Explore</h2>
+<h3 align="center">I'm a Passionate Software Engineer | Full-Stack (FE - Heavy) Developer</h3><br/><br/>
 
 
-💬 Ask me about: **Frontend Development with Javascript & ReactJs**
+👨‍💻 My Portfolio Website [https://amphilip.vercel.app/](https://amphilip.vercel.app/)
+
+📝 MY UX/UI Portfolio [https://achieved-jumper-ac9.notion.site/fa73bf7357264d889dddb7ac33b02a45?v=468f79f3d555400ab116ed68bbf3ef66](https://achieved-jumper-ac9.notion.site/fa73bf7357264d889dddb7ac33b02a45?v=468f79f3d555400ab116ed68bbf3ef66)
+
+📫 How to reach me **philipmwangi91@gmail.com**
 
 
 
