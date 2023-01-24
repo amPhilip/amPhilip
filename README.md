@@ -1,6 +1,12 @@
 <!--
-<h1 align="left">Hi 👋, I'm Phil</h1>
-<h3 align="left">Am a Frontend developer</h3>
+<h1 align="left">Hi 👋, I'm Philip. Welcome to my GitHub Profile. Feel Free to Explore</h1>
+<h3 align="center">A passionate Software Engineer | Full-Stack (FE - Heavy) Developer</h3>
+
+- 👨‍💻 My Portfolio Website [https://amphilip.vercel.app/](https://amphilip.vercel.app/)
+
+- 📝 MY UX/UI Portfolio [https://achieved-jumper-ac9.notion.site/fa73bf7357264d889dddb7ac33b02a45?v=468f79f3d555400ab116ed68bbf3ef66](https://achieved-jumper-ac9.notion.site/fa73bf7357264d889dddb7ac33b02a45?v=468f79f3d555400ab116ed68bbf3ef66)
+
+- 📫 How to reach me **philipmwangi91@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
