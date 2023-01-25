@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 👨‍💻 My Portfolio Website [https://amphilip.vercel.app/](https://amphilip.vercel.app/)
 
 📝 MY UX/UI Portfolio [https://achieved-jumper-ac9.notion.site/fa73bf7357264d889dddb7ac33b02a45?v=468f79f3d555400ab116ed68bbf3ef66](https://achieved-jumper-ac9.notion.site/fa73bf7357264d889dddb7ac33b02a45?v=468f79f3d555400ab116ed68bbf3ef66)
+![](Present2.png)
 
 📫 How to reach me **philipmwangi91@gmail.com**
 
